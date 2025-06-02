@@ -1,5 +1,11 @@
 # LangChain Projects Repository
 
+## What is LangChain?
+
+[LangChain](https://langchain.com/) is a powerful framework for building applications powered by large language models (LLMs). It helps you combine LLMs with external tools, vector databases, document loaders, and chains of logic — making it easier to build advanced NLP workflows, chatbots, semantic search, and AI assistants.
+
+---
+
 Welcome to this collection of **LangChain-powered notebooks**, showcasing a variety of real-world NLP and AI tasks implemented with LangChain and related tools.
 
 Each notebook is a standalone project demonstrating different capabilities such as semantic search, text chunking, skill extraction, multi-tool agent integration, and more.
@@ -32,12 +38,6 @@ Integrate a calculator tool with LangChain to perform mathematical operations wi
 ---
 
 ## 🚀 Getting Started
-
-### What is LangChain?
-
-[LangChain](https://langchain.com/) is a powerful framework for building applications powered by large language models (LLMs). It helps you combine LLMs with external tools, vector databases, document loaders, and chains of logic — making it easier to build advanced NLP workflows, chatbots, semantic search, and AI assistants.
-
----
 
 ### How to run these notebooks
 
