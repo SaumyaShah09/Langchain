@@ -23,7 +23,7 @@ Experiment with different text chunking strategies and analyze their impact on e
 ### 3. [Job-Description-to-Skill-Extractor.ipynb](./Job-Description-to-Skill-Extractor.ipynb)  
 Automatically extract key skills from job descriptions using LangChain and embedding-based techniques.
 
-### 4. [Multi-Tool-Agent-Assistant(Web Search + Calculator + Weather).ipynb](./Multi-Tool-Agent-Assistant(Web Search + Calculator + Weather).ipynb)  
+### 4. [Multi-Tool-Agent-Assistant\(Web Search + Calculator + Weather\).ipynb](./Multi-Tool-Agent-Assistant%28Web%20Search%20%2B%20Calculator%20%2B%20Weather%29.ipynb)  
 Build a versatile LangChain agent that integrates multiple tools — web search, calculator, and weather — to answer complex, multi-faceted queries.
 
 ### 5. [Natural-language-to-SQL-query.ipynb](./Natural-language-to-SQL-query.ipynb)  
