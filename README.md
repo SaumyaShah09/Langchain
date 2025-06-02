@@ -33,6 +33,14 @@ Integrate a calculator tool with LangChain to perform mathematical operations wi
 
 ## 🚀 Getting Started
 
+### What is LangChain?
+
+[LangChain](https://langchain.com/) is a powerful framework for building applications powered by large language models (LLMs). It helps you combine LLMs with external tools, vector databases, document loaders, and chains of logic — making it easier to build advanced NLP workflows, chatbots, semantic search, and AI assistants.
+
+---
+
+### How to run these notebooks
+
 1. Clone the repository:
    ```bash
    git clone <your-repo-url>
